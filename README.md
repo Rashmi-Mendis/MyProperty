@@ -12,7 +12,7 @@ This is a **real estate business website** developed as part of the **Moratuwa B
 ## Features  
 - **Home Page:** Introduction to the real estate business  
 - **About Us:** Company details and mission  
-- **Property Listings:** Apartments and houses for sale/rent  
+- **Property Listings:** Apartments and houses for sale
 - **Contact Page:** Inquiry form for potential buyers  
 
 ## Technologies Used  
