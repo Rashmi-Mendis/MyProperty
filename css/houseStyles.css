@@ -1,0 +1,87 @@
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif; 
+  background-color: #ffffff;
+
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #00aaaa;
+  width: auto;
+}
+
+.topnav a {
+ 
+  float: center;
+  color: #ffffff;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #3dd4e5;
+  color: black;
+}
+
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: auto; /* Adjust height as needed */
+  background-color: #ffffff;
+  width: 100%;
+}
+
+.header img {
+  max-width: 100%; /* Keeps the image responsive */
+  height: auto;    /* Maintains the aspect ratio */
+} 
+
+.house01{  
+  position: absolute;
+  left: 2%;
+  background-color:#77e1ed;
+  font-family: Verdana, sans-serif;
+  color: #000000;
+  text-align: center;
+
+}
+.house02{
+  position: absolute;
+  left: 25%;
+  background-color: #77e1ed;
+  font-family: Verdana, sans-serif;
+  color: #000000;
+  text-align: center;
+
+}
+.house03{
+
+  position: absolute;
+  left: 50%;
+  background-color: #77e1ed;
+  font-family: Verdana, sans-serif;
+  color: #000000;
+  text-align: center;
+
+}
+.house04{
+
+  position: absolute;
+  left: 75%;
+  background-color: #77e1ed;
+  font-family: Verdana, sans-serif;
+  color: #000000;
+  text-align: center;
+}
+
+.house01 img, .house02 img, .house03 img, .house04 img {
+  width: 350px;
+  height: fit-content;
+
+}
+
+

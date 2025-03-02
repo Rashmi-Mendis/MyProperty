@@ -1,0 +1,79 @@
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: auto; /* Adjust height as needed */
+  background-color: #ffffff;
+}
+
+.header img {
+  max-width: 100%; /* Keeps the image responsive */
+  height: auto;    /* Maintains the aspect ratio */
+} 
+body {
+  margin: 0px;
+  font-family: Arial, Helvetica, sans-serif; 
+  background-color: #3dd4e5;
+}
+
+.topnav {
+  width: auto;
+  overflow: hidden;
+  background-color: #00aaaa;
+}
+
+.topnav a {
+  float: left;
+  color: #ffffff;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #3dd4e5;
+  color: black;
+}
+
+.about{
+    padding: 5px 100px;
+    background-color: #3dd4e5;
+    font-family: candara;
+    text-align: center;
+    color: #000000;
+
+}
+
+.about h1, .Team h1{
+  color: #000000;
+}
+
+p b{
+	font-style: italic;
+	font-size: 40px;
+}
+
+p{
+	font-size: 20px;
+}
+
+.Team{
+
+    padding: 2px 2px;
+    color: #3dd4e5;
+}
+
+.client{
+    padding: 5px 5px;
+    
+}
+
+.pic{
+  background-color: #000000;
+  text-align: left;
+}
+
+.user{
+  height: 150px;
+}
